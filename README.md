@@ -1,14 +1,14 @@
 # Programmer | Analyst
-
-#### Technical Skills: Python, Dart, Flutter, Tensorflow (learning)
+#### Technical Skills: Python, Dart, Flutter, Tensorflow (learning) 
 
 ## Education
-- Grade 12 | DAV Public School Koylanagar (2009-2023)
+- Grade 12                                           | DAV Koylanagar (2009-2023)
 - Complete Python Developer in 2023: Zero To Mastery | Udemy
-- Image Processing in Python | DataCamp
-- Machine Learning for Everyone | DataCamp
+- Image Processing in Python                         | DataCamp
+- Machine Learning for Everyone                      | DataCamp
 
 [Certificates](https://drive.google.com/drive/folders/1lZ52bfgzoJAS6xy8ShsKkU0nhXQ_qAHM?usp=sharing)
+
 
 ## Work Experience
 Earned 22,000 INR through **freelancing work**. I utilized the earnings to purchase a digital piano, supporting my passion for Western classical piano. This endeavor took place during my 10th grade. Details are in the source.
@@ -17,13 +17,15 @@ Earned 22,000 INR through **freelancing work**. I utilized the earnings to purch
 
 Served as the **Student Council President** during my 12th-grade year (2022-23). The school had a strength of 7000+ students.
 
+
 ## Projects
 _Source code for the projects will be added soon. More minor projects would also be listed._/
 
 **Wheelchair: Won ₹50,000 at JH-SIC competition conducted by IIT Dhanbad**
-- In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the eyeball and moves the wheelchair accordingly. Opencv with pertained haar cascades was used (application of machine learning). I did optimization and testing.
 
-<summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a field for us to conquer.</summary>
+In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the eyeball and moves the wheelchair accordingly. Opencv with pertained haar cascades was used (application of machine learning). I did optimization and testing.
+
+<details><summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a field for us to conquer.</summary>/
 
 
 ### Interests
