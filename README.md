@@ -19,17 +19,17 @@
 ## Projects
 _Source code for the projects will be added soon_
 **Wheelchair: Won ₹50,000 at JH-SIC competition conducted by IIT Dhanbad**
-- In collaboration with Mayank Kumar. I utilised a gaze tracker that tracks the motion of eye ball and moves the wheelchair accordingly. Opencv along with pretained haar cascades were used (application of machine learning). Optimisation and testing was done by me.
+- In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the eyeball and moves the wheelchair accordingly. Opencv with pertained haar cascades was used (application of machine learning). I did optimization and testing.
 
-<br>There are people whose entire body below the neck is paralysed. How can people like these go on leading normal lives? That's the problem Mayank initially contemplated. Togther, we tried to solve the problem. People like that are bound to wheelchairs, but they need someone to help them with even the menial of things. (1) What if they can control the wheelchair and move on their own? (2) What if they can slowly do most od the daily tasks by themselves? We succesfully solved problem 1. Problem 2 is still a field for us to conquer.
+<br>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a field for us to conquer.
 
 More to be listed...
 
 ### Interests
 #### Pianist and Composer
-Passionate about western classical piano. Unfinished compositons will be finished and published by 2024.
-**Learning:** Liszt Liebestraum No 3: 'Dream of Love'
-**Learnt Pieces:** Rachmaninoff Prelude in C# Minor, Chopin Nocturne Op 9 No 2, Prelude in A Major Op 28 No 7, Für Elise, Song of Twilight, Pachbell Canon in D Major
+Passionate about Western classical piano. Unfinished compositions will be finished and published by 2024.
+\**Learning:** Liszt Liebestraum No 3: 'Dream of Love'
+\**Learnt Pieces:** Rachmaninoff Prelude in C# Minor, Chopin Nocturne Op 9 No 2, Prelude in A Major Op 28 No 7, Für Elise, Song of Twilight, Pachbell Canon in D Major
 
 #### Observing and Understanding People
 
