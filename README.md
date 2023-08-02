@@ -19,14 +19,13 @@ Served as the **Student Council President** during my 12th-grade year (2022-23).
 
 
 ## Projects
-_Source code for the projects will be added soon. More minor projects would also be listed._/
+_Source code for the projects will be added soon. More minor projects would also be listed._
 
 **Wheelchair: Won ₹50,000 at JH-SIC competition conducted by IIT Dhanbad**
 
 In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the eyeball and moves the wheelchair accordingly. Opencv with pertained haar cascades was used (application of machine learning). I did optimization and testing.
 
-<details><summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a field for us to conquer.</summary>/
-
+<details><summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a field for us to conquer.</summary></details>
 
 ### Interests
 #### Pianist and Composer
