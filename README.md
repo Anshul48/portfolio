@@ -31,9 +31,9 @@ In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the ey
 #### Pianist and Composer
 _Passionate about Western classical piano. Unfinished compositions will be finished and published by 2024._
 
-**Learning:** Liszt Liebestraum No 3: 'Dream of Love'
+**Learning:** Liszt's Liebestraum No 3: 'Dream of Love'
 
-**Learnt:** Rachmaninoff Prelude in C# Minor, Chopin Nocturne Op 9 No 2, Prelude in A Major Op 28 No 7, Für Elise, Song of Twilight, Pachbell Canon in D Major
+**Learnt:** Rachmaninoff's Prelude in C# Minor, Chopin's Nocturne Op 9 No 2, Prelude in A Major, Für Elise, Song of Twilight, Pachbell's Canon in D
 
 #### Observing and Understanding People
 
@@ -42,4 +42,4 @@ _Passionate about Western classical piano. Unfinished compositions will be finis
 
 **Reading:** The Procrastination Equation, How To Create a Mind, Zero to One
 
-**Read:** Eat That Frog, The 21 Irrefutable Laws of Leadership, Mastery, Four Hour Body,  Find Your Why, Find Your Passion - 25 Questions to Ask Yourself...
+**Read:** Eat That Frog, The 21 Irrefutable Laws of Leadership, Mastery, Four Hour Body,  Find Your Why, Find Your Passion - 25 Questions to Ask Yourself, and more.
