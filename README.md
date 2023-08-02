@@ -24,16 +24,17 @@ _Source code for the projects will be added soon. More minor projects would also
 
 In collaboration with Mayank Kumar. I utilized a gaze tracker that tracks the eyeball and moves the wheelchair accordingly. Opencv with pertained haar cascades was used (application of machine learning). I did optimization and testing.
 
-<details><summary>More</summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a problem for us to solve.</details>
+<details><summary>More</summary>How can people whose entire body below the neck is paralyzed lead everyday lives? That's the problem Mayank initially contemplated. Together, we tried to solve the problem. People like that need someone to help them with even the menial things. (1) What if they can control the wheelchair and move independently? (2) What if they can do most of the daily tasks themselves? We successfully solved problem 1. Problem 2 is still a problem for us to solve.
 
+</details>  
 
 ### Interests
 #### Pianist and Composer
 _Passionate about Western classical piano. Unfinished compositions will be finished and published by 2024._
 
-**Learning:** Liszt's Liebestraum No 3: 'Dream of Love'
+**Learning:** Liszt's Liebestraum No 3: 'Dream of Love', Chopin's Nocturne Op 9 No 2
 
-**Learnt:** Rachmaninoff's Prelude in C# Minor, Chopin's Nocturne Op 9 No 2, Prelude in A Major, Für Elise, Song of Twilight, Pachbell's Canon in D
+**Learnt:** Rachmaninoff's Prelude in C# Minor, Prelude in A Major, Für Elise, Song of Twilight, Pachbell's Canon in D
 
 #### Observing and Understanding People
 
